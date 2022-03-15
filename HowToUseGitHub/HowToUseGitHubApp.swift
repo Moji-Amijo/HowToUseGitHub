@@ -12,7 +12,6 @@ struct HowToUseGitHubApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
-            
         }
     }
 }
